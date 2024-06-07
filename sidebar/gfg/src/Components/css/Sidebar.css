@@ -1,0 +1,24 @@
+.h:hover{
+    background-color: rgb(225, 219, 219);
+    font-size: larger;
+}
+.h{
+    transition: 0.5s;
+}
+.sid{
+    position:absolute;
+    position: fixed;
+    z-index: 1;
+}
+.sideimg{
+width: 11%;
+border-radius: 50%;
+margin-left: 7%;
+}
+.sidebar-btn-wrapper:hover{
+    background-color: rgb(225, 219, 219);
+    font-size: larger;
+}
+.sidebar-btn-wrapper{
+    transition: 0.5s;
+}

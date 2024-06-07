@@ -1,0 +1,70 @@
+.fy{
+    background-color: rgb(140, 139, 139);
+    width: 100%;
+    height: 100vh;
+    color: white;
+    font-weight: 200;
+   
+}
+.container h1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 31px;
+    margin-bottom: 3.5%;
+}
+.subjs{
+    display: flex;
+    flex-direction: column;
+}
+.subj{
+    margin: 1%;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 9px;
+    height: 49px;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+}
+.subj:hover{
+    background-color:rgb(51, 51, 51);
+    cursor: pointer;
+    transition: 0.4s;
+    color: whitesmoke;
+}
+.subj1{
+    background-color: orange;
+    padding-top: 8px;
+}
+.subj2{
+    background-color: rgb(127, 127, 252);
+    padding-top: 8px;
+}
+.subj3{
+    background-color: crimson;
+}
+.subj4{
+    background-color: rgb(121, 235, 121);
+    padding-top: 8px;
+}
+.subj5{
+    background-color:coral;
+    padding-top: 8px;
+}
+.subj6{
+    background-color: rgb(194, 141, 244);
+    padding-top: 8px;
+}
+.subj7{
+    background-color: pink;
+    padding-top: 8px;
+}
+.subj8{
+    background-color: gold;
+    padding-top: 8px;
+}
+.pyquestionpaper{
+    display: block;
+    margin: auto;
+}
